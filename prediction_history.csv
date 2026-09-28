@@ -1,0 +1,4 @@
+Timestamp,Cutting_Speed_m_min,Feed_Rate_mm_rev,Depth_of_Cut_mm,Spindle_Load_pct,Tool_Vibration_mm_s,Condition,Alert
+2026-09-28T10:50:39,180.0,0.25,2.5,72.0,4.3,Failed,False
+2026-09-28T10:50:45,200.0,0.25,2.5,72.0,4.3,Failed,False
+2026-09-28T10:51:01,200.0,0.78,2.5,72.0,4.3,Failed,False
